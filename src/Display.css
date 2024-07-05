@@ -1,0 +1,23 @@
+#displaybox {
+  max-width: 86%;
+  height: 100px;
+  margin: auto;
+  margin-top: 1.5%;
+  margin-bottom: 2.5%;
+  padding: 4% 0%;
+  padding-left: 4%;
+  background: #424769;
+  text-align: left;
+  font-size: 128px;
+  color: white;
+}
+
+#assemblyBox {
+  width: 100;
+  height: 100%;
+  background: #2d3250;
+}
+
+body {
+  background: #2d3250;
+}
